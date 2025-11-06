@@ -2,4 +2,4 @@ my git journey begins
 Learning git commits
 This line is added from Feature1 branch
 Added new Line after First Push
-Line entered from new branch
+//Line entered from new branch//error line entered from main branch without changing branch
