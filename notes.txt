@@ -1,1 +1,2 @@
 my git journey begins
+Learning git commits
